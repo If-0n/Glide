@@ -1,7 +1,6 @@
 # Glide
-Glide is a MultiAPI injector that works most of the time it supports KrnlAPI
-WrdAPI and EasyExploits API, Easyexploits sometimes works Wrd almost always works so probally just use that
-and Krnl is not implemented well but maybe in the future
+Glide As of 2023-04-05 is discontinued as im making Glide V2 which is a injector that is going to be paid for the moment being
+but will be free after beta.
 
 # Use 
 
